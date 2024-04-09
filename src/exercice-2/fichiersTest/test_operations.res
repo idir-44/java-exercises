@@ -1,0 +1,7 @@
+ERROR
+7.0
+3.0
+42.0
+ERROR
+0.0
+ERROR
