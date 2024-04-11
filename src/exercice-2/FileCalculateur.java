@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class FileCalculateur {
     public static void main(String[] args) {
         if (args.length != 1) {
-            System.out.println("Usage : java OperateurFichier <chemin_dossier>");
+            System.out.println("Usage : java FileCalculateur <chemin_dossier>");
             return;
         }
 
